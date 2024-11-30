@@ -17,7 +17,7 @@
   /* Font settings */
   --font-family: 'CenturySchL';
   --font-title: 'Chaumont';
-  --font-size-XL: 7em;
+  --font-size-XL: 4.5em;
 	--font-size-L: 2.25em;
 	--font-size-M: 1.2em;
   --font-size-S: 0.9em;
@@ -77,7 +77,7 @@ h2{
 h3{
   font-family: 'CenturySchL';
 	font-weight:normal;
-	font-size: var(--font-size-L);
+	font-size: var(--font-size-XL);
 	line-height: var(--line-height-M);
   text-align: center; 
 	margin: 0;
