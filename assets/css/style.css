@@ -130,6 +130,7 @@ div.page-wrapper {
 
 .grid-item{
   overflow-y:scroll;
+  padding-top: 5px; /* Adjust the value as needed */
 } 
 
 .block-thesis{ 
